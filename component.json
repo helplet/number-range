@@ -1,0 +1,14 @@
+{
+  "name": "in-range",
+  "repo": "helplet/in-range",
+  "description": "Make sure a number is in range.",
+  "version": "0.0.1",
+  "keywords": ["test", "check", "validation", "number"],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
