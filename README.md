@@ -1,5 +1,5 @@
 
-# in-range
+# number-range
 
   Make sure a number is in range.
 
@@ -7,7 +7,7 @@
 
   Install with [component(1)](http://component.io):
 
-    $ component install helplet/in-range
+    $ component install helplet/number-range
 
 ## API
 
